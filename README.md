@@ -16,5 +16,5 @@ The script prompts the user to enter a **16-digit credit card number** (as a str
 
 ## 📤 Output
 
-Returns the number in the format: ****** **** **** 1234**
+Returns the number in the format: ** xxxx xxxx xxxx 1234 **
 
