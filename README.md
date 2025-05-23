@@ -8,7 +8,7 @@ To protect sensitive financial information by partially hiding the credit card n
 
 ## 📁 Files
 
-- `mask_credit_card.py`: Python script that performs the masking.
+- `credit-card.py`: Python script that performs the masking.
 
 ## 📥 Input
 
